@@ -38,13 +38,13 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
-    image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
-    },
+    title: 'Andrii Stelmashenko',
+    subtitle: 'Personal page',
+    description: 'Here you can find information about myself, my CV, projects worked on, etc.',
+    // image: {
+    //     src: '/preview.jpg',
+    //     alt: ''
+    // },
     headerNavLinks: [
         {
             text: 'Home',
@@ -57,50 +57,51 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
         }
+        // {
+        //     text: 'Tags',
+        //     href: '/tags'
+        // }
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+        // {
+        //     text: 'About',
+        //     href: '/about'
+        // },
+        // {
+        //     text: 'Contact',
+        //     href: '/contact'
+        // },
+        // {
+        //     text: 'Terms',
+        //     href: '/terms'
+        // },
+        // {
+        //     text: 'Download theme',
+        //     href: 'https://github.com/JustGoodUI/dante-astro-theme'
+        // }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Github',
+            href: 'https://github.com/astelmashenko'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'Linkedin',
+            href: 'https://www.linkedin.com/in/astelmashenko/'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://twitter.com/gavaec'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Hi there! I`m Andrey Stelmashenko this site is my online CV',
+        text: `I'm a sofrware engineer. My interests are: software architecrute, k8s-native dev, wasm; AI/ML; embedded dev as hobby; can write code for jvm and also python, go, rust (a little)
+I live in Chernihiv, Ukraine. Love sport and tourism, music, art.. life`,
         image: {
             src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'Me'
         },
         actions: [
             {
@@ -109,11 +110,11 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
-    },
+    // subscribe: {
+    //     title: 'Subscribe to Dante Newsletter',
+    //     text: 'One update per week. All the latest posts directly in your inbox.',
+    //     formUrl: '#'
+    // },
     postsPerPage: 8,
     projectsPerPage: 8
 };
