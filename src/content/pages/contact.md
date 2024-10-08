@@ -8,7 +8,7 @@ seo:
 Have questions? Contact me:
 
 _Email:_
-Email at [andrey.stelmashenko@gmail.com](mailto:andrey.stelmashenko@gmail.com), and I'll do my best to respond as soon as possible.
+[andrey.stelmashenko@gmail.com](mailto:andrey.stelmashenko@gmail.com), and I'll do my best to respond as soon as possible.
 
 _Social Media:_
 Connect with me on social media as well. Find me on [Twitter](https://twitter.com/gavaec) or [LinkedIn](https://www.linkedin.com/in/astelmashenko/).

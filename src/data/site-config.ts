@@ -57,29 +57,17 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
-        }
-        // {
-        //     text: 'Tags',
-        //     href: '/tags'
-        // }
-    ],
+        },
+        {
+            text: 'About',
+            href: '/about'
+        },
+        {
+            text: 'Contact',
+            href: '/contact'
+        },
+   ],
     footerNavLinks: [
-        // {
-        //     text: 'About',
-        //     href: '/about'
-        // },
-        // {
-        //     text: 'Contact',
-        //     href: '/contact'
-        // },
-        // {
-        //     text: 'Terms',
-        //     href: '/terms'
-        // },
-        // {
-        //     text: 'Download theme',
-        //     href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        // }
     ],
     socialLinks: [
         {
