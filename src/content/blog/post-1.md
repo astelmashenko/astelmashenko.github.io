@@ -1,7 +1,7 @@
 ---
-title: The Advantages & Disadvantages of Working from Home
-excerpt: In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes.
-publishDate: 'Aug 5 2023'
+title: Working remotely
+excerpt: In recent years a lot of things changed, covid, digital nomad visas, etc. The world is becoming more borderless. How to work remotely the right way?
+publishDate: 'Oct 11 2024'
 tags:
   - Guide
 seo:
@@ -10,39 +10,48 @@ seo:
     alt: A person standing at the window
 ---
 
-TBD
-<!-- ![A person standing at the window](/post-1.jpg) -->
-<!---->
-<!-- **Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_. -->
-<!---->
-<!-- In recent years, the way we work has undergone a significant transformation, largely due to advancements in technology and changing attitudes toward work-life balance. One of the most notable changes has been the rise of remote work, allowing employees to work from the comfort of their own homes. While this shift has brought about many benefits, it has also introduced its fair share of challenges. Let's explore the advantages and disadvantages of working from home. -->
-<!---->
-<!-- ## Advantages of Working from Home -->
-<!---->
-<!-- 1. **Flexibility:** One of the most significant advantages of remote work is the flexibility it offers. Employees can often set their own hours, which can be particularly beneficial for those with family responsibilities or other commitments. -->
-<!---->
-<!-- 2. **Reduced Commute:** Eliminating the daily commute not only saves time but also reduces stress and expenses associated with transportation. This can lead to better mental health and increased job satisfaction. -->
-<!---->
-<!-- 3. **Cost Savings:** Working from home can result in significant cost savings. Employees can save money on transportation, work attire, and daily meals, which can have a positive impact on their overall financial well-being. -->
-<!---->
-<!-- 4. **Increased Productivity:** Many people find that they are more productive when working from home. The absence of office distractions and the ability to create a personalized work environment can lead to improved focus and efficiency. -->
-<!---->
-<!-- 5. **Work-Life Balance:** Remote work allows for better work-life balance. Employees can better manage their personal and professional lives, leading to reduced burnout and increased job satisfaction. -->
-<!---->
-<!-- > Your ability to discipline yourself to set clear goals and then work toward them every day will do more to guarantee your success than any other single factor. -->
-<!---->
-<!-- ## Disadvantages of Working from Home -->
-<!---->
-<!-- 1. **Isolation:** Remote work can be lonely. The absence of coworkers and face-to-face interaction can lead to feelings of isolation and loneliness, which may negatively impact mental health. -->
-<!---->
-<!-- 2. **Difficulty in Communication:** Effective communication can be a challenge when working remotely. Misunderstandings, lack of clear communication, and delayed responses can hinder teamwork and collaboration. -->
-<!---->
-<!-- 3. **Work-Life Boundaries:** While remote work can improve work-life balance, it can also blur the lines between work and personal life. It can be challenging to establish clear boundaries, leading to overwork and burnout. -->
-<!---->
-<!-- 4. **Technology Issues:** Technical problems, such as internet connectivity issues or software glitches, can disrupt work and cause frustration. -->
-<!---->
-<!-- 5. **Distractions:** Working from home can be riddled with distractions, ranging from household chores to noisy neighbors. Maintaining focus can be a constant struggle for some. -->
-<!---->
-<!-- 6. **Career Growth:** Some employees may feel that working remotely limits their opportunities for career advancement, as they may have less visibility within the organization. -->
-<!---->
-<!-- While it offers flexibility, cost savings, and improved work-life balance, it can also lead to isolation, communication challenges, and distractions. The key to successful remote work lies in finding a balance that suits individual preferences and addressing potential drawbacks through effective communication, time management, and self-discipline. As remote work continues to evolve, understanding and adapting to these advantages and disadvantages will be crucial for both employees and employers. -->
+![No borders](/b1_working_remotely.png)
+
+**Note:** My experience working remotely starts back 2012 when I started working for an US based company. Since then I worked only remotely, so it is now (2024) about 12+ years of experience.
+
+There are obious advantages, like cost and time savings, flexible working day, etc. And of course disadvantages: isolation, communication and the most important I see 
+is work-life boundaries.
+
+But let's talk on specific advices how to make it comfortable and effective.
+
+1. **Time management:** because you become more flexible, it's easy to split your working day, especially if timezones with your client are different. 
+The dangerouse thing is to stay effective, if you split your working day in more then 2 parts then it's likely you will not be able to do big enough tasks which require 
+long focus, thus you become ineffective. Another important thing is to think about the next day, especially if there is big difference between timezones. You need to 
+double check email/chat so there are no important questions and you do not block anybody, check tasks details and ask all questions beforehand, so you are not blocked as well!
+
+2. **Work-Life Boundaries:** 
+
+* Your working place is so close, so you can miss when you are at work again, working 9th and 10th hour! It's very dangerouse, because can 
+lead to burndown and consequences! At the end of working day switch off everything related to work, of couse there is personal email or phone left (which should be rarely
+used to reach out to you only in urgent situations). You should be able to say "NO", teach yourself to say "NO", you have personal life and it's even more importnat then 
+any project.
+
+* As well keep work out of reach in your personal time, you should teach your friends/family that you are actually at work, and believe me switching context is very expensive
+operation in real life (not only in operating systems), it will exhuast you very quickly.
+
+3. **Communication skills:** few points here
+
+* If you ever tried to work on open source project then you should know, if you write a poor question, nobody will spend their time to get details,
+you will be just ignored.Take time and write thoughtful answers or emails. This will save your and colleagues time. 
+
+* Chat and email are different levels. Email make it official, and easy to escalate thing. Chat like Slack is (and should be) less official. Never accpept work in slack,
+where it is so easy to delete what was written, when you feel like conversation takes time or becomes important, escalate it to a ticket, eamil or meeting.
+
+* Be visible, when you are not working, keep proper status; when somebody asks you something to check, you always can give a short answer, say that you busy or started looking at it.
+
+4. Socialize! When you are working from home, mostly alone then it is very important to talk to people. One more thing which feel different from office is spent time.
+To me it's very hard to work 8 pure hours, but it's much easier to do it at home. In an office you will be more often distracted, have a coffee with colleages, etc.
+
+5. Always stay professional.
+![Citation](/b1_kawasaki.png)
+This applies not only to hiring process, but to you attitude to what you do. You do something not the best you can do it, the first time it is an exception,
+the second time it is a regular thing, later you become regular.
+
+And the most important thing: Love what you do!  
+If you can not then learn to love and then you will always enjoy it!
+
