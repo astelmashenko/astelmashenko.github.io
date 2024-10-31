@@ -23,3 +23,5 @@ After some time of researching I chose:
 * neovim to edit content
 
 I'm pretty happy with my choices!
+
+![Dev env](/neovim-homepage.png)

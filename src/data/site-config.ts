@@ -85,7 +85,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi there! I`m Andrey Stelmashenko this site is my online CV',
-        text: `I'm a sofrware engineer. My interests are: software architecrute, k8s-native dev, wasm; AI/ML; embedded dev as hobby; can write code for jvm and also python, go, rust (a little)
+        text: `I'm a sofrware engineer. My interests are: software architecrute, k8s-native development, wasm; AI/ML; embedded dev as hobby; I write code for jvm and also python, go, rust (a little).  
 I live in Chernihiv, Ukraine. Love sport and tourism, music, art.. life`,
         image: {
             src: '/hero.jpeg',
