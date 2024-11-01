@@ -11,12 +11,10 @@ seo:
 <!-- ![Alt text for image](/about.jpeg) -->
 
 
-e-mail:  
-[andrey.stelmashenko@gmail.com](mailto:andrey.stelmashenko@gmail.com)
-phone:  
-+38063 854 01 95
-twitter:  
-[http://twitter.com/gavaec](http://twitter.com/gavaec)
+e-mail: [andrey.stelmashenko@gmail.com](mailto:andrey.stelmashenko@gmail.com)  
+phone: +38063 854 01 95  
+twitter: [twitter.com/gavaec](https://twitter.com/gavaec)  
+linkedin: [linkedin.com/in/astelmashenko/](https://www.linkedin.com/in/astelmashenko/)  
 
 ### General information
 

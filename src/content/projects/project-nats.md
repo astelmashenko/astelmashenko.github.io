@@ -19,5 +19,6 @@ simpler to use: [knative](https://knative.dev). It has two main projects:
 Knative eventing is a broker/trigger based event driven applications support. It can run based on different messaging/streaming solutions like
 kafka, rabbitmq, nats, etc.
 
-I support oss [eventing-nats](https://github.com/knative-extensions/eventing-natss) extension of knative-eventing. 
+I'm a maintainer of oss [eventing-nats](https://github.com/knative-extensions/eventing-natss) extension of knative-eventing. From it's name 
+it is obvious it is a broker/channel implementation based on [Nats/Jetstream](https://docs.nats.io/nats-concepts/jetstream)
 
